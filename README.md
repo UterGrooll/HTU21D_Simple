@@ -22,7 +22,8 @@
 ### 📁 Arduino IDE
 
 1. Скачайте или клонируйте репозиторий:
-   ```bash
+
+```bash
    git clone https://github.com/your_username/HTU21D_Simple.git
 ````
 
