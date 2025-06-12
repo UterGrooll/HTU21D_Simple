@@ -1,0 +1,4 @@
+HTU21D_Simple     KEYWORD1
+begin             KEYWORD2
+readTemperature   KEYWORD2
+readHumidity      KEYWORD2
