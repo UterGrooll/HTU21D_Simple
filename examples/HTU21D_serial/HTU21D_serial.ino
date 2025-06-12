@@ -13,7 +13,6 @@
   - readHumidity(): возвращает относительную влажность в процентах.
   - `V-1.0.0`
 */
-
 #include "HTU21D_Simple.h"
 
 HTU21D_Simple sensor;
