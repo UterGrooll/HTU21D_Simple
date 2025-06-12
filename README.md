@@ -25,7 +25,8 @@
 
 ```bash
    git clone https://github.com/your_username/HTU21D_Simple.git
-````
+
+```
 
 2. Поместите папку `HTU21D_Simple` в директорию `libraries` вашей Arduino IDE:
 
